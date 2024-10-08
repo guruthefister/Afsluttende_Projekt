@@ -38,37 +38,47 @@
 
     "button": [
         {
-            "text": "Gå tilbage"
+            "text": "Gå Tilbage"
         }
     ],
 
     "about": [
         {
-            "img": "assets/IMG/lilla_bil1.jpg"
+            "img": "assets/IMG/lilla_bil1.jpg",
+            "headline": "Noget om mig",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt feugiat ligula, non congue leo posuere ac. Nunc ac ipsum dolor. Morbi efficitur tellus in orci porta laoreet. Cras convallis, lorem et efficitur aliquet, risus lacus tincidunt lorem, vitae tincidunt urna sem et elit. Suspendisse dapibus tristique iaculis. Aliquam dapibus vehicula urna non tempus. Nullam porttitor odio quam, a iaculis justo pretium vitae. In metus ligula, convallis nec tempor a, volutpat et sem. Nullam nisi odio, consequat a turpis in, bibendum ultricies lectus. Etiam hendrerit pharetra auctor."
         }
     ],
 
     "coding": [
         {
-
+            "img": "assets/IMG/lilla_bil2.jpg",
+            "headline": "Noget om mig",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt feugiat ligula, non congue leo posuere ac. Nunc ac ipsum dolor. Morbi efficitur tellus in orci porta laoreet. Cras convallis, lorem et efficitur aliquet, risus lacus tincidunt lorem, vitae tincidunt urna sem et elit. Suspendisse dapibus tristique iaculis. Aliquam dapibus vehicula urna non tempus. Nullam porttitor odio quam, a iaculis justo pretium vitae. In metus ligula, convallis nec tempor a, volutpat et sem. Nullam nisi odio, consequat a turpis in, bibendum ultricies lectus. Etiam hendrerit pharetra auctor."
         }
     ],
 
     "freetime": [
         {
-
+            "img": "assets/IMG/lilla_bil3.jpg",
+            "headline": "Noget om mig",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt feugiat ligula, non congue leo posuere ac. Nunc ac ipsum dolor. Morbi efficitur tellus in orci porta laoreet. Cras convallis, lorem et efficitur aliquet, risus lacus tincidunt lorem, vitae tincidunt urna sem et elit. Suspendisse dapibus tristique iaculis. Aliquam dapibus vehicula urna non tempus. Nullam porttitor odio quam, a iaculis justo pretium vitae. In metus ligula, convallis nec tempor a, volutpat et sem. Nullam nisi odio, consequat a turpis in, bibendum ultricies lectus. Etiam hendrerit pharetra auctor."
         }
     ],
 
     "projects": [
         {
-
+            "img": "assets/IMG/lilla_bil4.jpg",
+            "headline": "Noget om mig",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt feugiat ligula, non congue leo posuere ac. Nunc ac ipsum dolor. Morbi efficitur tellus in orci porta laoreet. Cras convallis, lorem et efficitur aliquet, risus lacus tincidunt lorem, vitae tincidunt urna sem et elit. Suspendisse dapibus tristique iaculis. Aliquam dapibus vehicula urna non tempus. Nullam porttitor odio quam, a iaculis justo pretium vitae. In metus ligula, convallis nec tempor a, volutpat et sem. Nullam nisi odio, consequat a turpis in, bibendum ultricies lectus. Etiam hendrerit pharetra auctor."
         }
     ],
 
     "contact": [
         {
-
+            "img": "assets/IMG/lilla_bil5.jpg",
+            "headline": "Noget om mig",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt feugiat ligula, non congue leo posuere ac. Nunc ac ipsum dolor. Morbi efficitur tellus in orci porta laoreet. Cras convallis, lorem et efficitur aliquet, risus lacus tincidunt lorem, vitae tincidunt urna sem et elit. Suspendisse dapibus tristique iaculis. Aliquam dapibus vehicula urna non tempus. Nullam porttitor odio quam, a iaculis justo pretium vitae. In metus ligula, convallis nec tempor a, volutpat et sem. Nullam nisi odio, consequat a turpis in, bibendum ultricies lectus. Etiam hendrerit pharetra auctor."
         }
     ]
 }
