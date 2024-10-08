@@ -1,0 +1,74 @@
+{
+    "topBottom": [
+        {
+            "header": "Afsluttende OOP Projekt"
+        },
+        {
+            "footer": "kæft man det virker, stjæl det ikke B-)"
+        }
+    ],
+
+    "content": [
+        {
+            "text": "Om Mig",
+            "readMore": "Læs mere",
+            "hr": "/about" 
+        },
+        {
+            "text": "Programmering",
+            "readMore": "Læs mere",
+            "hr": "/coding" 
+        },
+        {
+            "text": "Fritid",
+            "readMore": "Læs mere",
+            "hr": "/freetime" 
+        },
+        {
+            "text": "Projekter",
+            "readMore": "Læs mere",
+            "hr": "/projects" 
+        },
+        {
+            "text": "Kontakt",
+            "readMore": "Læs mere",
+            "hr": "/contact" 
+        }
+    ],
+
+    "button": [
+        {
+            "text": "Gå tilbage"
+        }
+    ],
+
+    "about": [
+        {
+            "img": "assets/IMG/lilla_bil1.jpg"
+        }
+    ],
+
+    "coding": [
+        {
+
+        }
+    ],
+
+    "freetime": [
+        {
+
+        }
+    ],
+
+    "projects": [
+        {
+
+        }
+    ],
+
+    "contact": [
+        {
+
+        }
+    ]
+}
