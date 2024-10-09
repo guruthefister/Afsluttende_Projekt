@@ -44,41 +44,69 @@
 
     "about": [
         {
-            "img": "assets/IMG/lilla_bil1.jpg",
+            "img": "assets/IMG/pink.png",
             "headline": "Noget om mig",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt feugiat ligula, non congue leo posuere ac. Nunc ac ipsum dolor. Morbi efficitur tellus in orci porta laoreet. Cras convallis, lorem et efficitur aliquet, risus lacus tincidunt lorem, vitae tincidunt urna sem et elit. Suspendisse dapibus tristique iaculis. Aliquam dapibus vehicula urna non tempus. Nullam porttitor odio quam, a iaculis justo pretium vitae. In metus ligula, convallis nec tempor a, volutpat et sem. Nullam nisi odio, consequat a turpis in, bibendum ultricies lectus. Etiam hendrerit pharetra auctor."
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt feugiat ligula, non congue leo posuere ac. Nunc ac ipsum dolor. Morbi efficitur tellus in orci porta laoreet. Cras convallis, lorem et efficitur aliquet, risus lacus tincidunt lorem, vitae tincidunt urna sem et elit. Suspendisse dapibus tristique iaculis. Aliquam dapibus vehicula urna non tempus. Nullam porttitor odio quam, a iaculis justo pretium vitae."
         }
     ],
 
-    "coding": [
-        {
-            "img": "assets/IMG/lilla_bil2.jpg",
-            "headline": "Noget om mig",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt feugiat ligula, non congue leo posuere ac. Nunc ac ipsum dolor. Morbi efficitur tellus in orci porta laoreet. Cras convallis, lorem et efficitur aliquet, risus lacus tincidunt lorem, vitae tincidunt urna sem et elit. Suspendisse dapibus tristique iaculis. Aliquam dapibus vehicula urna non tempus. Nullam porttitor odio quam, a iaculis justo pretium vitae. In metus ligula, convallis nec tempor a, volutpat et sem. Nullam nisi odio, consequat a turpis in, bibendum ultricies lectus. Etiam hendrerit pharetra auctor."
-        }
-    ],
+    "coding": {
+        "content": {
+            "img": "assets/IMG/code.png",
+            "headline": "Programmering",
+            "text": "Her er nogle af de sprog jeg har arbejdet med og lært at bruge lidt"
+        },
+        "points": [
+            "HTMl",
+            "CSS",
+            "JavaScript",
+            "TypeScript",
+            "C#",
+            "C++",
+            "Python",
+            "Structured Query Language",
+            "Lua"
+        ]
+    },
 
-    "freetime": [
-        {
-            "img": "assets/IMG/lilla_bil3.jpg",
-            "headline": "Noget om mig",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt feugiat ligula, non congue leo posuere ac. Nunc ac ipsum dolor. Morbi efficitur tellus in orci porta laoreet. Cras convallis, lorem et efficitur aliquet, risus lacus tincidunt lorem, vitae tincidunt urna sem et elit. Suspendisse dapibus tristique iaculis. Aliquam dapibus vehicula urna non tempus. Nullam porttitor odio quam, a iaculis justo pretium vitae. In metus ligula, convallis nec tempor a, volutpat et sem. Nullam nisi odio, consequat a turpis in, bibendum ultricies lectus. Etiam hendrerit pharetra auctor."
-        }
-    ],
+    "freetime": {
+        "content": {
+            "img": "assets/IMG/roblox.png",
+            "headline": "Fritid",
+            "text": "I min fritid laver jeg meget forskelligt men det er primært og spille eller se film her for tiden, ellers har jeg brugt meget tid sammen med venner og lign. i mine weekender og ferier.",
+            "overskrift": "liste over det jeg spiller"
+        },
+        "points": [
+            "Cs2",
+            "Valorant",
+            "League of Legends",
+            "Roblox",
+            "Overwatch",
+            "Rocket League"
+        ]
+    },
 
-    "projects": [
-        {
-            "img": "assets/IMG/lilla_bil4.jpg",
-            "headline": "Noget om mig",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt feugiat ligula, non congue leo posuere ac. Nunc ac ipsum dolor. Morbi efficitur tellus in orci porta laoreet. Cras convallis, lorem et efficitur aliquet, risus lacus tincidunt lorem, vitae tincidunt urna sem et elit. Suspendisse dapibus tristique iaculis. Aliquam dapibus vehicula urna non tempus. Nullam porttitor odio quam, a iaculis justo pretium vitae. In metus ligula, convallis nec tempor a, volutpat et sem. Nullam nisi odio, consequat a turpis in, bibendum ultricies lectus. Etiam hendrerit pharetra auctor."
-        }
-    ],
+    "projects": {
+        "content": {
+            "img": "assets/IMG/roblox.png",
+            "headline": "Projekts",
+            "text": "Har lavet mange forskellige projekter både store og små ting, og lavet i mange forskellige sprog og man finde det meste på min github. Har også lave nogle projekter med nogle venner, og har prøvet af lave hjemmesider og andre ting for folk som har spurgt efter det."
+        },
+        "points": [
+            "Tower Defense",
+            "Roblox Tower Defense",
+            "Masse forskellige hjemmesider",
+            "Robot",
+            "Ninja Spil",
+            "3D og 2D ting"
+        ]
+    },
 
     "contact": [
         {
-            "img": "assets/IMG/lilla_bil5.jpg",
+            "img": "assets/IMG/smøg.jpg",
             "headline": "Noget om mig",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt feugiat ligula, non congue leo posuere ac. Nunc ac ipsum dolor. Morbi efficitur tellus in orci porta laoreet. Cras convallis, lorem et efficitur aliquet, risus lacus tincidunt lorem, vitae tincidunt urna sem et elit. Suspendisse dapibus tristique iaculis. Aliquam dapibus vehicula urna non tempus. Nullam porttitor odio quam, a iaculis justo pretium vitae. In metus ligula, convallis nec tempor a, volutpat et sem. Nullam nisi odio, consequat a turpis in, bibendum ultricies lectus. Etiam hendrerit pharetra auctor."
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tincidunt feugiat ligula, non congue leo posuere ac. Nunc ac ipsum dolor. Morbi efficitur tellus in orci porta laoreet. Cras convallis, lorem et efficitur aliquet, risus lacus tincidunt lorem, vitae tincidunt urna sem et elit. Suspendisse dapibus tristique iaculis. Aliquam dapibus vehicula urna non tempus. Nullam porttitor odio quam, a iaculis justo pretium vitae."
         }
     ]
 }

@@ -14,17 +14,31 @@ export const renderFreetime = async () => {
 
     const heading = document.createElement("h2");
     heading.classList.add("heading");
-    heading.textContent = data.freetime[0].headline;
+    heading.textContent = data.freetime.content.headline;
     article.appendChild(heading);
 
     const text = document.createElement("p");
     text.classList.add("text__about");
-    text.textContent = data.freetime[0].text;
+    text.textContent = data.freetime.content.text;
     article.appendChild(text);
+
+    const overskriftList = document.createElement("h3");
+    overskriftList.classList.add("overskriftList");
+    overskriftList.textContent = data.freetime.content.overskrift;
+    article.appendChild(overskriftList);
+
+    const list = document.createElement("ul");
+    list.id = "ul";
+    data.freetime.points.forEach((point) => {
+        const items = document.createElement("li");
+        items.textContent = point
+        list.appendChild(items);
+    })
+    article.appendChild(list);
 
     const showImg = document.createElement("img");
     showImg.classList.add("showIMG");
-    showImg.src = data.freetime[0].img;
+    showImg.src = data.freetime.content.img;
     cardContainer.appendChild(showImg);
 
     const returnButton = document.createElement("a");

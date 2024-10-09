@@ -14,17 +14,26 @@ export const renderProjects = async () => {
 
     const heading = document.createElement("h2");
     heading.classList.add("heading");
-    heading.textContent = data.projects[0].headline;
+    heading.textContent = data.projects.content.headline;
     article.appendChild(heading);
 
     const text = document.createElement("p");
     text.classList.add("text__about");
-    text.textContent = data.projects[0].text;
+    text.textContent = data.projects.content.text;
     article.appendChild(text);
+
+    const list = document.createElement("ul");
+    list.id = "ul";
+    data.projects.points.forEach((point) => {
+        const items = document.createElement("li");
+        items.textContent = point
+        list.appendChild(items);
+    })
+    article.appendChild(list);
 
     const showImg = document.createElement("img");
     showImg.classList.add("showIMG");
-    showImg.src = data.projects[0].img;
+    showImg.src = data.projects.content.img;
     cardContainer.appendChild(showImg);
 
     const returnButton = document.createElement("a");
